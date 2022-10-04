@@ -4,4 +4,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Тестовое задание в агентство а2](Agency_a2) | Восстановление/предсказание характеристик | *pandas, numpy, pyplot, seaborn, missingno, sklearn, lightgbm, catboost, optuna* |
+| [Тестовое задание в агентство а2](Agency_a2) | Восстановление/предсказание характеристик | *pandas, numpy, pyplot, seaborn, missingno, scipy.stats, dython, sklearn, lightgbm, catboost, optuna* |
